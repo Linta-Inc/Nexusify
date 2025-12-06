@@ -1,6 +1,3 @@
-# WARNING!
-DO NOT USE REPO FOR NOW, IT'S ON MAINTENANCE!
-
 <h1 align="center">
   <img loading="lazy" src="readme-res/2.5.6.png"/>
 </h1>
@@ -74,6 +71,15 @@ The status of project can be found in below.
 * flag removal etc.
 */
 ```
+
+# 🗒️ Notes
+Do NOT download the source code of repo. 
+
+If you need a release, go to releases and download it. If you REALLY need source code, use git clone for that. 
+
+Because our system/ folder tracked by Git Large File System which is Download Source Code can't get these files. So you will NOT be able to boot your device if you download source code and ZIP them. 
+
+Use git clone for getting all repo files correctly.
 
 # ✅ Status of project
 
