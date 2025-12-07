@@ -91,7 +91,7 @@ pm uninstall --user 0 com.sec.android.app.wlantest
 cmd package install-existing com.sec.android.smartfpsadjuster
 
 ui_print "⏳ Applying device configurations..."
-su -c cp /data/adb/modules/AIonix/data/user_de/0/com.android.settings/files/DeviceImage.png /data/user_de/0/com.android.settings/files
+su -c cp /data/adb/modules/Nexusify/data/user_de/0/com.android.settings/files/DeviceImage.png /data/user_de/0/com.android.settings/files
 su -c chmod 644 /data/user_de/0/com.android.settings/files/DeviceImage.png
 sleep 0.7
 ui_print "✅ Device configurations applied successfully."
