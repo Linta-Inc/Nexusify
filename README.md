@@ -1,6 +1,3 @@
-# Project going under maintenance!
-The features can't be usable on 18:00. The maintenance will take our 1 hour.
-
 <h1 align="center">
   <img loading="lazy" src="readme-res/2.5.6.png"/>
 </h1>
