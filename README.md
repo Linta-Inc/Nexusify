@@ -27,8 +27,9 @@ The goal is making this project bigger and smoother.  If you have any issues, us
 The status of project can be found in below.
 
 # 📱 The features of Nexusify
-- 8K@30fps / 4k@120fps Camera Support
-- Smoother experience
+- HDR10+ Support.
+- 60fps Video Recording Support.
+- Smoother experience.
 - Supports Galaxy A series.
 - Removing useless Samsung apps
 - S25 Wallpapers
