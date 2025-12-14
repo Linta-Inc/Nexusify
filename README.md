@@ -98,7 +98,8 @@ Use git clone for getting all repo files correctly.
 <img align="right" src="readme-res/galaxy-a15.png" width="400" alt="Preview">
 
 **Status: Active** <br>
-**Codename: a15** <br>
+**Codename: a15, a15x** <br>
+**Model Name: SM-A155F, A155M, A156M, A156E** <br>
 **Contributors: [lyntaxqq](https://github.com/lyntaxqq/).**
 
 ### Status
