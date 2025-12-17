@@ -115,30 +115,3 @@ Use git clone for getting all repo files correctly.
 | Live Blur          |                | ✅    |
 | Always-on-Display  |                | ✅    |
 | AI Wallpapers      |                | ✅    |
-
-## Samsung Galaxy A07
-
-<img align="right" src="readme-res/galaxy-a07.png" width="400" alt="Preview">
-
-**Status: Work-in progress** <br>
-**Codename: a07** <br>
-**Contributors: [lyntaxqq](https://github.com/lyntaxqq/).**
-
-### Status
-
-| Feature            | Description    | State |
-|:-------------------|:---------------|:-----:|
-| Booting            |                | ❔    |
-| Galaxy AI          |                | ❌    |
-| Camera             |                | ❌    |
-| Spoof CPU          |                | ❌    |
-| Spoof GPU          |                | ❌    |
-| Live Blur          |                | ❌    |
-| Always-on-Display  |                | ❌    |
-| AI Wallpapers      |                | ❌    |
-
-</details>
-
-# ❤️ Contributors
-- Note14ProUser for testing on A07 and reporting status.
-- closeronget3 for testing on A15 4G and reporting status.
