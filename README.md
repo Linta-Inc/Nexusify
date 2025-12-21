@@ -108,9 +108,9 @@ Use git clone for getting all repo files correctly.
 |:-------------------|:---------------|:-----:|
 | Booting            |                | ✅    |
 | Galaxy AI          |                | ✅    |
-| Camera             |                | ✅    |
-| Spoof CPU          |                | ✅    |
-| Spoof GPU          |                | ✅    |
+| Camera Features    |                | ✅    |
+| Spoof Version      |                | ✅    |
+| Mini DeX           |                | ✅    |
 | Live Blur          |                | ✅    |
 | Always-on-Display  |                | ✅    |
 | AI Wallpapers      |                | ✅    |
