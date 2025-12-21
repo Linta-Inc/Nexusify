@@ -50,9 +50,8 @@ The status of project can be found in below.
 - S25 Sounds
 - AOD Support
 - Mini Dex Support
-- Spoof GPU to Adreno 830
-- Spoof CPU to Snapdragon 8 Elite
 - Spoof device to S25 Ultra
+- Spoof One UI version to 8.0
 
 # ⚠️ Accountability
 ```cpp
