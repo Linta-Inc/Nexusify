@@ -22,11 +22,6 @@ ro.product.build.id=AP3A.240905.015.A2
 ro.product.build.tags=release-keys
 ro.product.build.type=user
 ro.product.build.version.incremental=S938BXXS7BYK3
-ro.soc.manufacturer=Qualcomm
-ro.soc.model=SM8750-AC
-ro.gpu.model=Adreno830
-ro.gpu=Adreno830
-ro.hardware.chipname=Sun
 ro.build.version.sem=3501
 ro.build.version.sep=160000
 ro.build.version.oneui=80000
@@ -156,3 +151,4 @@ ril.support.dynamic_imei=true
 # end system_ext/etc/build.prop
 
 ###
+
