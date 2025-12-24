@@ -137,7 +137,7 @@ rm -rf /data/system/package_cache/*
 print_success "Cleaned cache files succesfully. ←"
 
 ui_print ""
-ui_print "→      Nexus removing completed. ←"
+ui_print "→     Nexusify removing completed. ←"
 ui_print "→   Reboot your device to apply changes. ←"
-ui_print "→       Hope to see you again         ←"
+ui_print "→       Hope to see you again.         ←"
 ui_print ""
