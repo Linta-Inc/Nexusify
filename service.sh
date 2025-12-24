@@ -1,6 +1,5 @@
 #
-# Copyright (C) 2025 lyntaxxq, lyntaxqq
-# The module maintainer is lyntaxxq
+# Copyright (C) 2025 lyntaxqq
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
