@@ -2,9 +2,9 @@
   <img loading="lazy" src="readme-res/banner.png"/>
 </h1>
 <p align="center">
-  <a href="https://github.com/lyntaxqq/Nexusify/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/lyntaxqq/Nexusify?style=for-the-badge&logo=github"/></a>
-  <img loading="lazy" src="https://img.shields.io/github/last-commit/lyntaxqq/Nexusify?branch=main&style=for-the-badge"/>
-  <a href="https://github.com/lyntaxqq/Nexusify"><img loading="lazy" src="https://img.shields.io/github/stars/lyntaxqq/Nexusify?style=for-the-badge"/></a>
+  <a href="https://github.com/Linta-Inc/Nexusify/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/Linta-Inc/Nexusify?style=for-the-badge&logo=github"/></a>
+  <img loading="lazy" src="https://img.shields.io/github/last-commit/Linta-Inc/Nexusify?branch=16&style=for-the-badge"/>
+  <a href="https://github.com/Linta-Inc/Nexusify"><img loading="lazy" src="https://img.shields.io/github/stars/Linta-Inc/Nexusify?style=for-the-badge"/></a>
   <a href="https://crowdin.com/project/Nexusify"><img loading="lazy" src="https://img.shields.io/badge/Crowdin-263238?style=for-the-badge&logo=crowdin"/></a>
 
 <p align="center">
