@@ -1,3 +1,8 @@
+# DEAD!
+This project is no longer maintained by lyntaxqq or Linta Inc. Anyone can fork this repository and revive this project.
+Give credits if you are gonna do it. 
+I could maybe maintain it after 4 months or more or less than 4 months. Idk really since I get A15 I will start maintaining it.
+
 <h1 align="center">
   <img loading="lazy" src="readme-res/banner.png"/>
 </h1>
